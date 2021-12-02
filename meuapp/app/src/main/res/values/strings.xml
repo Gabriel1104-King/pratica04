@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="exercícios">
+        <item>Segunda-Feira: \n
+                Leg Press: 4x 15</item>
+        <item>Terça-Feira: \n
+                Crucifixo na máquina: 3x drop 1 0</item>
+        <item>Quarta-Feira: \n
+                Agachamento smith: 4x 15</item>
+        <item>Quinta-Feira: \n
+                Cadeira flexora: 3x drop 10</item>
+        <item>Sexta-Feira: \n
+                Bicepes corda: 4x 15</item>
+        <item>Sábado: \n
+                Leg Press: 4x 15</item>
+    </string-array>
+</resources>
